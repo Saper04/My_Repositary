@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         int[] a = new int[6];
         int sum = 0;
-        int srAR = 0;
+        double srAR = 0;
         for (int i = 1; i<=5; i++) {
             a[i] = i;
             sum = sum+a[i];
